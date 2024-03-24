@@ -1,0 +1,14 @@
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\bin\Debug\net7.0\Projeto musical.exe
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\bin\Debug\net7.0\Projeto musical.deps.json
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\bin\Debug\net7.0\Projeto musical.runtimeconfig.json
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\bin\Debug\net7.0\Projeto musical.dll
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\bin\Debug\net7.0\Projeto musical.pdb
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.AssemblyInfo.cs
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.dll
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\refint\Projeto musical.dll
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.pdb
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\Projeto musical.genruntimeconfig.cache
+C:\Users\marcu\Desktop\T.I\Alura\C#\Projeto musical\obj\Debug\net7.0\ref\Projeto musical.dll
